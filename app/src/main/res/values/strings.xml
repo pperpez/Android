@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Gestion Jugadores</string>
+    <string name="action_settings">Settings</string>
+    <string name="edtNombre">Nombre</string>
+    <string name="edtEquipo">Equipo</string>
+    <string name="edtEdad">Edad</string>
+    <string name="edtDescripcion">Descripcion</string>
+    <string name="btnAddEdit">Añadir</string>
+    <string name="opcEdit">Editar</string>
+    <string name="opcDel">Borrar</string>
+    <string name="tituloDialogo">¿Esta seguro de borrar al jugador?</string>
+    <string name="si">Si</string>
+    <string name="no">No</string>
+    <string name="editar">Editar</string>
+    <string name="txtEditNombre">Nombre</string>
+    <string name="txtEditEquipo">Equipo</string>
+    <string name="txtEditEdad">Edad</string>
+    <string name="txtEditDescripcion">Descripcion</string>
+    <string name="txtEditPosicion">Posicion</string>
+    <string name="tituloDialogoAll">¿Desea borrar todos los jugadores?</string>
+    <string name="txtUsuario">Usuario</string>
+    <string name="txtPassword">Password</string>
+    <string name="btnLogin">Login</string>
+    <string name="chkRemember">¿Recordar usuario?</string>
+    <string name="edtPassword">Password</string>
+    <string name="edtUsuario">Usuario</string>
+    <string name="cerrarSesion">Cerrar Sesión</string>
+    <string name="txtHeader">Opciones Jugador</string>
+    <string name="mensaje">Tiene que rellenar todos los campos</string>
+</resources>

@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.pablo.gestionjugadores.ListaActivity">
+    <item
+        android:id="@+id/action_del_all"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        android:icon="@android:drawable/ic_menu_delete"
+        android:tint="@android:color/white"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_cerrar_sesion"
+        android:orderInCategory="100"
+        android:title="@string/cerrarSesion"
+        android:icon="@android:drawable/ic_menu_close_clear_cancel"
+        android:tint="@android:color/white"
+        app:showAsAction="never" />
+</menu>
